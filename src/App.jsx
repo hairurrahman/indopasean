@@ -146,7 +146,7 @@ export default function App() {
       alert("Harap lengkapi semua data dan Token!");
       return;
     }
-    if (studentData.token.toUpperCase() !== "MATH123") {
+    if (studentData.token.toUpperCase() !== "INDO123") {
       alert("Token Ujian Salah! Silakan hubungi admin / pengawas.");
       return;
     }
