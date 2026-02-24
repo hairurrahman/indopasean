@@ -400,7 +400,7 @@ export default function App() {
               <div className="bg-white p-8 rounded-xl shadow border border-blue-100">
                 <div className="text-center mb-8 border-b pb-6">
                   <h2 className="text-2xl font-bold text-blue-900 uppercase">Konfirmasi Data Peserta</h2>
-                  <p className="font-bold text-gray-700 mt-2 text-lg">TRY OUT MATEMATIKA</p>
+                  <p className="font-bold text-gray-700 mt-2 text-lg">TRY OUT BAHASA INDONESIA</p>
                 </div>
                 
                 <form onSubmit={handleStartTest} className="space-y-5">
