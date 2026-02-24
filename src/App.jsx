@@ -2,7 +2,7 @@ import React, { useState, useEffect } from 'react';
 import { Image, Plus, Trash2, Check, ChevronLeft, ChevronRight, Save, LayoutDashboard, GraduationCap, Lock, User, FileText, UploadCloud, AlertCircle } from 'lucide-react';
 
 // TODO: MASUKKAN URL GOOGLE APPS SCRIPT YANG BARU DI SINI
-const SCRIPT_URL = "https://script.google.com/macros/s/AKfycbyQmMcDTKnEudR7ifkhX6wgSgv2sMsmIO673WLOXzifAHtaqGZ1DX1995ux0aFVmc3gDg/exec"; 
+const SCRIPT_URL = "https://script.google.com/macros/s/AKfycbz2OPqcKOHhFE0TpRrP7GwWdHpDdCsKz0xFJGKQP98pcc35zxf6ggnApjJXGW0jJawMPA/exec"; 
 
 // Fungsi pembantu API Google Drive terbaru
 const formatImageUrl = (url) => {
